@@ -9,7 +9,7 @@
         "doctrine/common":            "^2.3",
         "guzzlehttp/guzzle":          "^6.3",
         "guzzlehttp/guzzle-services": "^1.0",
-        "league/fractal":             "^0.15.0",
+        "league/fractal":             "^0.17.0",
         "monolog/monolog":            "^1.22",
         "netresearch/jsonmapper":     "^1.4",
         "symfony/options-resolver":   "^2.6|^3.0|^4.0",
